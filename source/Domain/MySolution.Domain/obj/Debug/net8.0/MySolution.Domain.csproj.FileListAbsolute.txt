@@ -1,0 +1,15 @@
+C:\Users\Harthur\dotnet-project\source\Domain\MySolution.Domain\bin\Debug\net8.0\MySolution.Domain.deps.json
+C:\Users\Harthur\dotnet-project\source\Domain\MySolution.Domain\bin\Debug\net8.0\MySolution.Domain.dll
+C:\Users\Harthur\dotnet-project\source\Domain\MySolution.Domain\bin\Debug\net8.0\MySolution.Domain.pdb
+C:\Users\Harthur\dotnet-project\source\Domain\MySolution.Domain\bin\Debug\net8.0\MySolution.Commons.dll
+C:\Users\Harthur\dotnet-project\source\Domain\MySolution.Domain\bin\Debug\net8.0\MySolution.Commons.pdb
+C:\Users\Harthur\dotnet-project\source\Domain\MySolution.Domain\obj\Debug\net8.0\MySolution.Domain.csproj.AssemblyReference.cache
+C:\Users\Harthur\dotnet-project\source\Domain\MySolution.Domain\obj\Debug\net8.0\MySolution.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harthur\dotnet-project\source\Domain\MySolution.Domain\obj\Debug\net8.0\MySolution.Domain.AssemblyInfoInputs.cache
+C:\Users\Harthur\dotnet-project\source\Domain\MySolution.Domain\obj\Debug\net8.0\MySolution.Domain.AssemblyInfo.cs
+C:\Users\Harthur\dotnet-project\source\Domain\MySolution.Domain\obj\Debug\net8.0\MySolution.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Harthur\dotnet-project\source\Domain\MySolution.Domain\obj\Debug\net8.0\MySoluti.35FF53E5.Up2Date
+C:\Users\Harthur\dotnet-project\source\Domain\MySolution.Domain\obj\Debug\net8.0\MySolution.Domain.dll
+C:\Users\Harthur\dotnet-project\source\Domain\MySolution.Domain\obj\Debug\net8.0\refint\MySolution.Domain.dll
+C:\Users\Harthur\dotnet-project\source\Domain\MySolution.Domain\obj\Debug\net8.0\MySolution.Domain.pdb
+C:\Users\Harthur\dotnet-project\source\Domain\MySolution.Domain\obj\Debug\net8.0\ref\MySolution.Domain.dll

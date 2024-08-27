@@ -1,0 +1,12 @@
+C:\Users\Harthur\dotnet-project\source\Commons\MySolution.Commons\bin\Debug\net8.0\MySolution.Commons.deps.json
+C:\Users\Harthur\dotnet-project\source\Commons\MySolution.Commons\bin\Debug\net8.0\MySolution.Commons.dll
+C:\Users\Harthur\dotnet-project\source\Commons\MySolution.Commons\bin\Debug\net8.0\MySolution.Commons.pdb
+C:\Users\Harthur\dotnet-project\source\Commons\MySolution.Commons\obj\Debug\net8.0\MySolution.Commons.csproj.AssemblyReference.cache
+C:\Users\Harthur\dotnet-project\source\Commons\MySolution.Commons\obj\Debug\net8.0\MySolution.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harthur\dotnet-project\source\Commons\MySolution.Commons\obj\Debug\net8.0\MySolution.Commons.AssemblyInfoInputs.cache
+C:\Users\Harthur\dotnet-project\source\Commons\MySolution.Commons\obj\Debug\net8.0\MySolution.Commons.AssemblyInfo.cs
+C:\Users\Harthur\dotnet-project\source\Commons\MySolution.Commons\obj\Debug\net8.0\MySolution.Commons.csproj.CoreCompileInputs.cache
+C:\Users\Harthur\dotnet-project\source\Commons\MySolution.Commons\obj\Debug\net8.0\MySolution.Commons.dll
+C:\Users\Harthur\dotnet-project\source\Commons\MySolution.Commons\obj\Debug\net8.0\refint\MySolution.Commons.dll
+C:\Users\Harthur\dotnet-project\source\Commons\MySolution.Commons\obj\Debug\net8.0\MySolution.Commons.pdb
+C:\Users\Harthur\dotnet-project\source\Commons\MySolution.Commons\obj\Debug\net8.0\ref\MySolution.Commons.dll

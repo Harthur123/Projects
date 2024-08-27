@@ -1,0 +1,17 @@
+C:\Users\Harthur\dotnet-project\source\Infrastructure\MySolution.Infrastructure\bin\Debug\net8.0\MySolution.Infrastructure.deps.json
+C:\Users\Harthur\dotnet-project\source\Infrastructure\MySolution.Infrastructure\bin\Debug\net8.0\MySolution.Infrastructure.dll
+C:\Users\Harthur\dotnet-project\source\Infrastructure\MySolution.Infrastructure\bin\Debug\net8.0\MySolution.Infrastructure.pdb
+C:\Users\Harthur\dotnet-project\source\Infrastructure\MySolution.Infrastructure\bin\Debug\net8.0\MySolution.Commons.dll
+C:\Users\Harthur\dotnet-project\source\Infrastructure\MySolution.Infrastructure\bin\Debug\net8.0\MySolution.Domain.dll
+C:\Users\Harthur\dotnet-project\source\Infrastructure\MySolution.Infrastructure\bin\Debug\net8.0\MySolution.Domain.pdb
+C:\Users\Harthur\dotnet-project\source\Infrastructure\MySolution.Infrastructure\bin\Debug\net8.0\MySolution.Commons.pdb
+C:\Users\Harthur\dotnet-project\source\Infrastructure\MySolution.Infrastructure\obj\Debug\net8.0\MySolution.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Harthur\dotnet-project\source\Infrastructure\MySolution.Infrastructure\obj\Debug\net8.0\MySolution.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harthur\dotnet-project\source\Infrastructure\MySolution.Infrastructure\obj\Debug\net8.0\MySolution.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Harthur\dotnet-project\source\Infrastructure\MySolution.Infrastructure\obj\Debug\net8.0\MySolution.Infrastructure.AssemblyInfo.cs
+C:\Users\Harthur\dotnet-project\source\Infrastructure\MySolution.Infrastructure\obj\Debug\net8.0\MySolution.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Harthur\dotnet-project\source\Infrastructure\MySolution.Infrastructure\obj\Debug\net8.0\MySoluti.710FD012.Up2Date
+C:\Users\Harthur\dotnet-project\source\Infrastructure\MySolution.Infrastructure\obj\Debug\net8.0\MySolution.Infrastructure.dll
+C:\Users\Harthur\dotnet-project\source\Infrastructure\MySolution.Infrastructure\obj\Debug\net8.0\refint\MySolution.Infrastructure.dll
+C:\Users\Harthur\dotnet-project\source\Infrastructure\MySolution.Infrastructure\obj\Debug\net8.0\MySolution.Infrastructure.pdb
+C:\Users\Harthur\dotnet-project\source\Infrastructure\MySolution.Infrastructure\obj\Debug\net8.0\ref\MySolution.Infrastructure.dll

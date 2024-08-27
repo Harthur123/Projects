@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Harthur\\dotnet-project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B969EA-9A91-4270-A9A1-D1ECC0B18E3C}|source\\Infrastructure\\MySolution.Infrastructure\\MySolution.Infrastructure.csproj|c:\\users\\harthur\\dotnet-project\\source\\infrastructure\\mysolution.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B969EA-9A91-4270-A9A1-D1ECC0B18E3C}|source\\Infrastructure\\MySolution.Infrastructure\\MySolution.Infrastructure.csproj|solutionrelative:source\\infrastructure\\mysolution.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E07419-2517-4695-85D1-D2F7FA2C065E}|source\\Domain\\MySolution.Domain\\MySolution.Domain.csproj|c:\\users\\harthur\\dotnet-project\\source\\domain\\mysolution.domain\\contracts\\iclienterepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E07419-2517-4695-85D1-D2F7FA2C065E}|source\\Domain\\MySolution.Domain\\MySolution.Domain.csproj|solutionrelative:source\\domain\\mysolution.domain\\contracts\\iclienterepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E07419-2517-4695-85D1-D2F7FA2C065E}|source\\Domain\\MySolution.Domain\\MySolution.Domain.csproj|c:\\users\\harthur\\dotnet-project\\source\\domain\\mysolution.domain\\mysolution.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1E07419-2517-4695-85D1-D2F7FA2C065E}|source\\Domain\\MySolution.Domain\\MySolution.Domain.csproj|solutionrelative:source\\domain\\mysolution.domain\\mysolution.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Harthur\\dotnet-project\\source\\Infrastructure\\MySolution.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "source\\Infrastructure\\MySolution.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Harthur\\dotnet-project\\source\\Infrastructure\\MySolution.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "source\\Infrastructure\\MySolution.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:42:52.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IClienteRepositor.cs",
+              "DocumentMoniker": "C:\\Users\\Harthur\\dotnet-project\\source\\Domain\\MySolution.Domain\\contracts\\IClienteRepositor.cs",
+              "RelativeDocumentMoniker": "source\\Domain\\MySolution.Domain\\contracts\\IClienteRepositor.cs",
+              "ToolTip": "C:\\Users\\Harthur\\dotnet-project\\source\\Domain\\MySolution.Domain\\contracts\\IClienteRepositor.cs",
+              "RelativeToolTip": "source\\Domain\\MySolution.Domain\\contracts\\IClienteRepositor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:21:03.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MySolution.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Harthur\\dotnet-project\\source\\Domain\\MySolution.Domain\\MySolution.Domain.csproj",
+              "RelativeDocumentMoniker": "source\\Domain\\MySolution.Domain\\MySolution.Domain.csproj",
+              "ToolTip": "C:\\Users\\Harthur\\dotnet-project\\source\\Domain\\MySolution.Domain\\MySolution.Domain.csproj",
+              "RelativeToolTip": "source\\Domain\\MySolution.Domain\\MySolution.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T01:19:05.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
