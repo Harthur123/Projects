@@ -10,11 +10,15 @@ namespace MySolution.Domain.models
         public string NomeUsuario { get; set; }
         private decimal Saldo { get; set; }
 
+        
+
+
         public ContaBancaria(string numeroConta, string nomeUsuario, decimal saldoInicial)
         {
             NumeroConta = numeroConta;
             NomeUsuario = nomeUsuario;
             Saldo = saldoInicial;
+        
         }
 
         public void Depositar(decimal valor)
